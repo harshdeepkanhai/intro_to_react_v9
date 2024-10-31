@@ -8,9 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Harshdeep Kanhai",
-  "license": "ISC",
-  "description": "",
+  "author": "Harshdeep Kanhai <harshdeepkanhai@gmail.com>",
+  "license": "Apache-2.0",
+  "description": "crimes against pizza",
   "devDependencies": {
     "eslint": "^9.9.1",
     "eslint-config-prettier": "^9.1.0",
